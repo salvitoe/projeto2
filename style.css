@@ -50,6 +50,9 @@ body * {
 
 #profile img {
   width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 #profile p {
